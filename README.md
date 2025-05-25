@@ -41,4 +41,4 @@ Ensure the destination folder is accessible from the endpoint.
 
 # 📝 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.ur IP or shared drive IP with path specified.
+This project is licensed under the MIT License. See the LICENSE file for details.
